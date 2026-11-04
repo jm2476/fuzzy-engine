@@ -1,6 +1,6 @@
 # fuzzy-engine
 
-## Discription
+## Description
 
 ## Usage
 
